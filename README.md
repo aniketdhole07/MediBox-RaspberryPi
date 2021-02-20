@@ -11,3 +11,5 @@ Codes for Raspberry Pi of MediBox and CAD STL files
 3. In that open Firebase Admin SDK
 4. Below Click on `Generate Private Key`
 5. Paste that key in `creds.json` file
+6. 
+<img src="https://i.ibb.co/XxYzVcb/image-19.png" alt="image-19" border="0">
